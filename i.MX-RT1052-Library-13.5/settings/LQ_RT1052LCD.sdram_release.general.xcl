@@ -1,0 +1,17 @@
+"E:\iar23\arm\bin\armproc.dll" 
+
+"E:\iar23\arm\bin\armjlink2.dll" 
+
+"D:\海事大学\study hard day day up\智能车\i.MX-RT1052-Library-13.5\sdram_release\LQ_RT1052LCD.bin" 
+
+--plugin="E:\iar23\arm\bin\armbat.dll" 
+
+--device_macro="E:\iar23\arm\config\debugger\NXP\iMXRT.dmac" 
+
+--device_macro="E:\iar23\arm\config\debugger\NXP\iMXRT_Trace.dmac" 
+
+--flash_loader="D:\海事大学\study hard day day up\智能车\i.MX-RT1052-Library-13.5\LQ_RT1052SYS.board" 
+
+
+
+
